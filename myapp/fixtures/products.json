@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "SM57",
+            "price": 99.99,
+            "description": "Shure SM57 Dynamic Microphone"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "SM58",
+            "price": 49.99,
+            "description": "Shure SM58 Dynamic Vocal Microphone"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "SM7B",
+            "price": 399.00,
+            "description": "Shure SM7B Condenser Microphone"
+        }
+    }
+]
